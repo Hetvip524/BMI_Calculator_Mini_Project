@@ -1,1 +1,0 @@
-# BMI_Calculator_Mini_Project
